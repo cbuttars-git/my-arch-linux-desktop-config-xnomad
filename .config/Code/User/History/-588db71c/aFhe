@@ -1,0 +1,23 @@
+# I don't want to track the any of the git configuration files
+.git
+.gitconfig
+# I don't want to track any of the .cache files
+.cache
+# I don't want to pick up any of the Mozilla FireFox settings
+.mozilla
+# I don't want to track .bash_history or bash_logout
+.bash_history
+.bash_logout
+# I don't want to track .zsh_history or zsh_logout
+.zsh_history
+.zsh_logout
+# I don't want to track the .vscode configuration
+.vscode
+# I don't want to track any of the .ssh information
+.ssh
+# I don't want to track anything that might be a backup
+*.bac
+*.bak
+*.backup
+# I don't want any of the virtual box files
+.vboxclient*

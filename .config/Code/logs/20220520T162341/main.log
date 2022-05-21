@@ -1,0 +1,10 @@
+[2022-05-20 16:23:44.621] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-20 16:23:44.718] [main] [info] update#setState idle
+[2022-05-20 16:23:44.941] [main] [info] ExtensionHostStarterWorker created
+[2022-05-20 16:23:46.766] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-20 16:23:47.466] [main] [info] Starting extension host with pid 3585 (fork() took 28 ms).
+[2022-05-20 16:23:47.466] [main] [info] ExtensionHostStarterWorker.start() took 52 ms.
+[2022-05-20 16:24:14.721] [main] [info] update#setState checking for updates
+[2022-05-20 16:24:14.779] [main] [info] update#setState idle
+[2022-05-20 16:31:49.366] [main] [info] Extension host with pid 3585 exited with code: 0, signal: null.
+[2022-05-20 16:31:49.366] [main] [info] Waiting for extension host with pid 3585 to exit.

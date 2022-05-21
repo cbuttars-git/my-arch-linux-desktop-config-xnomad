@@ -1,0 +1,45 @@
+# I don't want to track the any of the git configuration files
+.git
+.gitconfig
+# I don't want to track any of the .cache files
+.cache
+# I don't want to pick up any of the Mozilla FireFox settings
+.mozilla
+# I don't want to track .bash_history or bash_logout
+.bash_history
+.bash_logout
+# I don't want to track .zsh_history or zsh_logout
+.zsh_history
+.zsh_logout
+# I don't want to track the .vscode configuration
+.vscode
+# I don't want to track any of the .ssh information
+.ssh
+# I don't want to track anything that might be a backup
+*.bac
+*.bak
+*.backup
+# I don't want any of the virtual box files
+.vboxclient*
+# I don't want to track any of the arch log files
+.zcompdump*
+# I don't want to track any of the login files
+.Xauthority
+#I don't want to track any of the .config cache files.
+.config/Code/Cache
+.config/Code/GPUCache
+# I don't want to track any of the log files
+.config/Code/logs/20220520T214145/sharedprocess.log
+.config/variety/variety.log
+.local/share/sddm/xorg-session.log
+# I don't plan to keep XFCE so I don't want to tack the files. If I change my mind I can always comment this out.
+.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-notifyd.xml
+# I don't want to track downloaded files
+Documents
+Downloads
+Music
+Pictures
+Public
+# I may want to track templates
+# Templates
+Videos

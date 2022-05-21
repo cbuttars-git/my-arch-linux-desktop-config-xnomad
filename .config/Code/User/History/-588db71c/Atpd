@@ -1,0 +1,6 @@
+# I don't want to track the any of the git configuration files
+.git
+# I don't want to track any of the .cache files
+.cache
+# I don't want to pick up any of the Mozilla FireFox settings
+.mozilla
